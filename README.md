@@ -4,6 +4,16 @@
 
 This project implements a Deep Convolutional GAN (DCGAN) to generate realistic mountain landscape images using PyTorch. Inspired by the original DCGAN paper by Radford et al., this model learns to generate high-quality images from a latent noise vector through adversarial training.
 
+
+
+
+
+https://github.com/user-attachments/assets/5b077f47-d0b9-457a-a610-6af44b586383
+
+
+
+
+
 ## 🧠 Model Overview
 
 * **Architecture**: Deep Convolutional GAN (DCGAN)
