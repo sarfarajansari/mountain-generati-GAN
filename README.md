@@ -10,7 +10,18 @@ This project implements a Deep Convolutional GAN (DCGAN) to generate realistic m
 
 
 
-https://github.com/user-attachments/assets/d1536f8c-f955-4759-b443-596d3b5614be
+## 🎬 Training video
+
+See demonstration of how the GAN model learned generating mountains 
+
+### [click here to watch](https://youtube.com/shorts/Ww7qN0NbeBo)
+
+<a href="https://youtube.com/shorts/Ww7qN0NbeBo">
+  <img src="https://img.youtube.com/vi/Ww7qN0NbeBo/0.jpg" alt="Demo Video" width="500">
+</a>
+
+**👆 Click above to watch the demo** | *Duration: 34 seconds*
+
 
 
 
