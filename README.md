@@ -8,7 +8,11 @@ This project implements a Deep Convolutional GAN (DCGAN) to generate realistic m
 
 
 
-https://github.com/user-attachments/assets/5b077f47-d0b9-457a-a610-6af44b586383
+
+
+https://github.com/user-attachments/assets/d1536f8c-f955-4759-b443-596d3b5614be
+
+
 
 
 
